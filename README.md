@@ -109,3 +109,17 @@ python main.py
 | Database | SQLite (Relational Schema) |
 | Connectivity | REST API (JSON) |
 | Reporting | XlsxWriter / OpenPyXL |
+
+---
+
+## ⚖️ License & Usage Rights
+
+![License](https://img.shields.io/badge/License-Proprietary%20%2F%20Educational-red?style=flat-square)
+
+⚠️ **IMPORTANT:** This repository is published as a **Personal Portfolio Project** to demonstrate technical skills.
+
+* The "Smart Procurement Engine" logic and architecture are the **intellectual property of the author**.
+* **Commercial or Professional use is strictly prohibited.** You may not use this code in a production environment or for business operations without explicit permission.
+* For licensing inquiries, please contact me via LinkedIn.
+
+Copyright © 2025 - All Rights Reserved.
