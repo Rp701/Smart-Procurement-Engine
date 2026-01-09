@@ -8,6 +8,19 @@
 
 ---
 
+## 🗄️ Database Architecture
+The engine is powered by a custom-designed relational database with 2,960 price records across 31 suppliers.
+
+**📊 [View Complete Database Design Documentation →](https://github.com/Rp701/Database-Design-Deep-Dive-Architecture-Design-Choices---Smart-Procurement-Engine)**
+
+Key features:
+- Multi-currency support (EUR/USD)
+- N:M relationships (avg 16.5 suppliers per SKU)
+- Soft delete pattern with audit trail
+- Strategic denormalization for performance
+
+---
+
 ## 🔴 The Business Problem
 In high-volume supply chains, manual procurement processes are the silent killers of profitability.
 
